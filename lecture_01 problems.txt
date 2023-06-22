@@ -1,0 +1,19 @@
+##Practice program:
+
+Q1. Write python program to print any random paragraph 
+(randomly picked from google wikipedia).
+
+Q2. create a program to take an input from user (say user's age) and print the age.
+
+Q3. Comment the program written in [Q2].
+
+Q4. Write a python program and perform following instructions:
+	1. Take two user *integer* input.
+	2. perfrom mathematical operation over it like:
+		- addition
+		- subtraction
+		- multiplication
+		- division
+		- find square of both the input individually
+		- square root of both the input individually
+	3. Print the output of all the operations.

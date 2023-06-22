@@ -1,0 +1,38 @@
+
+Q1. Make a varaible that store (DO HARD CODING)
+	- integer value
+	- string value
+	- float value
+	
+Q2. Make a variable that ask user to input value.
+ 	- integer value
+ 	- string value
+ 	- float value
+ 	
+
+Q3. typecaste hardcoded(Progammer feeded) value into:
+	- int
+	- float
+	- string
+	The value is -> 49, 49.67, "Tom Cruise"
+	
+	do the type convertion for each given values into int, float and string and print the results.
+	
+	
+Q4. typecast user input value into:
+	- int
+	- float
+	- string
+	You as a user insert these values only -> 49, 49.67, "Tom Cruise"
+
+	do the type convertion for each given values into int, float and string and print the results.
+	
+	
+Q5. Build a program that takes the person's age in an integer format and stores it into another varaible in a string format then print it
+
+
+Q6. Build a program that takes the person's name and prints its name.
+
+
+Q7. Build a program that takes the person's salary in float format but print it in integer format
+	

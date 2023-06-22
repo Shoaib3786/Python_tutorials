@@ -1,0 +1,55 @@
+## 1st lecture ##
+
+1. Variable
+    - how to declare    (eg: a = 12)
+    - print()           (how print statement works)
+    - datatypes:
+        - string, int, float, bool
+
+
+2. variable naming culture:  (HOW BEAUTIFULLY WE CAN ASSIGN VARIABLE NAME)
+    - camel case, pascal case, snake case
+
+
+3. typecasting
+    - int(12)    -> 12
+    - float(12)  -> 12.0
+    - str(12)    -> '12' / "12"
+
+
+
+4. contraints ka error, what was the reason behind it?
+"WHY STRING WAS EXPECTING ALL THE INPUT FROM USER INCLUDING INT AND FLOAT"?
+a = str(input("Enter Value: "))  --> this was takking int, str, float also without any error, why?
+
+
+*Solution*:
+
+a = int(input("Enter value: "))
+print(a)
+
+    - when user insert a value using input("Enter value: ") the
+    value automatically gets stored in 'string' format.
+
+    - then int() which you are using outside the input(), is actually
+    working as typecasting,
+
+        - In some cases like for int and float it is working as constarint
+        like we were expecting in our lectures but plz keep in the 
+        back of the mindthe error these int and float is generating 
+        is not because of it is a constrait but because of typecasting.
+         
+
+    ""NOTE" 
+
+    a = int(input("enter value:")) also can be written as:
+
+    [or]
+    
+    a = input("enter value")   ---> asking user to insert value
+    a = int(a)                 ---> type casting user input into int format
+
+
+
+
+

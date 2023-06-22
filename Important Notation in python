@@ -1,0 +1,32 @@
+# Common Datatypes:
+# int
+# float
+# str
+# bool
+
+
+
+# Operators
+#   =    -> assignment operator = used for assigning value to a varaible
+#   ==   -> for camparision
+#   >    -> greater than
+#   <    -> less than
+#   >=   -> greater than equal to
+#   <=   -> less than equal to
+#   or   -> bitwise OR
+#   and  -> bitwise AND
+
+
+
+# Mathematical operator
+# + -> addition
+# - -> subtraction
+# / -> division
+# % -> modulo
+
+
+
+# Brackets names:
+# () -> round brackets
+# [] -> square brackets
+# {} -> curly brackets
