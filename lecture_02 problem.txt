@@ -36,3 +36,4 @@ Q6. Build a program that takes the person's name and prints its name.
 
 Q7. Build a program that takes the person's salary in float format but print it in integer format
 	
+

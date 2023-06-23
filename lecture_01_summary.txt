@@ -8,7 +8,9 @@
 
 
 2. variable naming culture:  (HOW BEAUTIFULLY WE CAN ASSIGN VARIABLE NAME)
-    - camel case, pascal case, snake case
+    - camel case -> myVar = 10
+    - pascal case -> MyVar = 10
+    - snake case -> my_var = 10
 
 
 3. typecasting

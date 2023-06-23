@@ -1,0 +1,29 @@
+##Practice program:
+
+
+Q1. Write a python program for assigning grades (A, B, C, D, E, F, G) based on marks obtained by a student.
+	- if the percentage is above 95, assign grade A
+	- if the percentage is above 70 and below and including 95, assign grade B
+	- if the percentage is above 60 and below and including 70, assign grade C	
+    - if the percentage is between (50, 60), assign D
+    - if the percentage is (40 to 50), assign E
+    - if the percentage is 29 and 30 , assign F
+    - if the percentage is 10 or 11, assign G 
+
+
+Q2. Write python code If tomorrow it isn't too hot, I’ll go to
+the sea, but if it is, I’ll have a walk in the forest. However, 
+if it rains, I’ll stay at home.
+
+
+Q3. Accept any city name from the user and display the monuments of the city name:
+ - if city is delhi then print monument red fort
+ - if city is Agra then print monument Taj Mahal
+ - if city is Jaipur then print monument Jal Mahal
+
+
+Q4. Write python program to check whether a person is senior citizen or not:
+	- if person's age > 60 then he/she is a senior citizen
+	- else he/she is not.
+
+
