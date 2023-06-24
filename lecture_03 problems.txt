@@ -22,7 +22,8 @@ Q3. Accept any city name from the user and display the monuments of the city nam
  - if city is Jaipur then print monument Jal Mahal
 
 
-Q4. Write python program to check whether a person is senior citizen or not:
+Q4. Write python program to check whether a person is senior citizen 
+or not:
 	- if person's age > 60 then he/she is a senior citizen
 	- else he/she is not.
 
