@@ -97,7 +97,6 @@ elif a == ("Jaipur"):
 
 
 
-
 print('\n')
 print('***************')
 print('Program 2')
@@ -122,3 +121,5 @@ if (a > 60):
 
 else:
    print("not senior citizen")
+
+
