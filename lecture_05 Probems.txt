@@ -1,0 +1,18 @@
+Q1: Write python program that ask two user input and find largest 
+number out of that two user input number.
+
+Q2: Write python program that accepts age of 4 users and find the
+youngest user out  of it.
+
+Q3: Write a python program to find the area of the:
+    - Rectangle
+    - Circle
+    - Triangle
+    - Square
+
+Q4: Write a python program, A shop will give discount of 10% 
+    - if the cost of purchased quantity is more than 1000 bucks. 
+Also,
+- Ask user for quantity [Suppose, one unit will cost 100 bucks].
+- Judge and print total cost for user.
+
