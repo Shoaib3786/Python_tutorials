@@ -22,7 +22,13 @@ max = int(float(input(" Enter Value b: ")) )
 robin = int(float(input(" Enter Value robin: ")) ) 
 lilly = int(float(input(" Enter Value lilly: ")) )
 
-if (sam < max) and (sam < robin) and (sam < lilly) :    # if sam is largest
+# example:
+sam = 12
+max = 10
+robin = 15
+lilly = 14
+
+if (sam < max) or (sam < robin) and (sam < lilly) :    # if sam is largest
     print(f' {sam} is youngest ')
 
 
@@ -74,9 +80,9 @@ if (shape == 'Rectangle'):  # Area for rectangle
 
 
 elif (shape == 'Circle'): # Area for circle
-    r = float(input("Enter lenght: "))
+    r = float(input("Enter radius: "))
     pi = 3.14    #[or]  pi = math.pi
-    
+    pi = math.pi
     area_cir = pi * r ** 2
 
     print("Area of rectngle: ", area_cir) 

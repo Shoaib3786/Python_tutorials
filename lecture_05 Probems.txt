@@ -16,3 +16,24 @@ Also,
 - Ask user for quantity [Suppose, one unit will cost 100 bucks].
 - Judge and print total cost for user.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
