@@ -9,6 +9,7 @@
 # Operators
 #   =    -> assignment operator = used for assigning value to a varaible
 #   ==   -> for camparision
+#   !=   -> not equal to
 #   >    -> greater than
 #   <    -> less than
 #   >=   -> greater than equal to
@@ -22,7 +23,7 @@
 # + -> addition
 # - -> subtraction
 # / -> division
-# % -> modulo
+# % -> modulus
 
 
 

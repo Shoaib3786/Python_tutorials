@@ -17,7 +17,6 @@ Q1. Write a python program for a situation say:
 
 # num = float(input("enter value:"))
 
-
 # if num > 0:
 
 # 	print('positive')
@@ -37,31 +36,18 @@ Q1. Write a python program for a situation say:
 # 	elif num % 4 == 0:
 # 		print('Divisible by 4')
 
-
 # 	# print(122+122)
 # elif num < 0:
 # 	print(' number is negative')	
 
-
-
-
 # else:
 # 	print(' it is zero')	
-    
-
-
-
-
-
-
-
 
 
 
 """
 Q2. Check whether a given number is even or odd
 """
-
 
 # # check whether 12 is divisible by 2 or not  
 # a = float(input("Enter value: "))
