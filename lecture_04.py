@@ -41,20 +41,20 @@ if it rains, I'll stay at home.
 
 # [2 - 'too hot', 3 - 'rain']
 
-a = 5
+# a = 5
 
-if (a == 2): # False
-    print(" I'll have a walk in the forest ")
+# if (a == 2): # False
+#     print(" I'll have a walk in the forest ")
 
-elif (a != 3):  # True
-    print(" I'll go to the sea ")
+# elif (a != 3):  # True
+#     print(" I'll go to the sea ")
 
     
-elif (a == 4): # False
-    print(" I'll stay at home ")
+# elif (a == 4): # False
+#     print(" I'll stay at home ")
     
-else: 
-    print("hello")
+# else: 
+#     print("hello")
     
 
 
