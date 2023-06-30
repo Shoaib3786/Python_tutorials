@@ -24,7 +24,9 @@
 # - -> subtraction
 # / -> division
 # % -> modulus
-
+# * -> multiplication
+# **2 -> squaring
+# a**(1/2) -> square root
 
 
 # Brackets names:
