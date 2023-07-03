@@ -15,7 +15,7 @@ else:
 
 """
 Q2: Write python program that accepts age of 4 users and find the
-youngest user out  of it.
+youngest user out of it.
 """
 sam = int(float(input(" Enter Value sam: ")) )
 max = int(float(input(" Enter Value b: ")) )

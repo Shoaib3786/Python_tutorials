@@ -15,24 +15,25 @@ Above 300 units is Rs 5 per day
 
 """
 
-unit = float(input("Enter ur unit: "))
-amount = 0
-print(f'Your unit utilized: {unit} unit ')
+# unit = float(input("Enter ur unit: "))
+# amount = 0
+# print(f'Your unit utilized: {unit} unit ')
 
-if (unit < 100):
-    print(f'your amount is: {amount}Rs ')
+# if (unit < 100):
 
-elif ( 100 <= unit <= 300):
+#     print(f'your amount is: {amount}Rs ')
 
-    amount = 0 + unit*2 
+# elif ( 100 <= unit <= 300):
+
+#     amount = 0 + (unit-100)*2 
     
-    print(f'your amount is: {amount}Rs ')
+#     print(f'your amount is: {amount}Rs ')
 
-elif ( unit > 300):
+# elif ( unit > 300):
 
-    amount = 0 + (200*2) + (unit-300) * 5
+#     amount = 0 + (200*2) + (unit-300) * 5
 
-    print(f'your amount is: {amount}Rs ')
+#     print(f'your amount is: {amount}Rs ')
 
 
 
