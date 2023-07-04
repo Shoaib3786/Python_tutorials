@@ -36,7 +36,3 @@ Q1. Print first 10 natural number.
 
 # for i in a:
 #   print(i)
-  
-
-
-
