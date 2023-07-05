@@ -1,0 +1,8 @@
+####### ASSIGNMENT #######
+
+Q1: Write a program to perform to take  4 inputs from the user and find the factorial of those 4 user input numbers.
+Make sure you run the program once for all this to happen.
+
+Hint:
+1. Use for loop
+2. Use list concept
