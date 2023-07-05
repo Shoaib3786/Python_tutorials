@@ -1,6 +1,6 @@
 ####### ASSIGNMENT #######
 
-Q1: Write a program to that takes 4 inputs from the user and 
+Q1: Write a program that takes 4 input from the user and 
 find the factorial of those 4 user input numbers.
 
 **Make sure you run the program once for all this to happen.
