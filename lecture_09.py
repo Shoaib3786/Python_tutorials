@@ -18,7 +18,7 @@ Q2. Print sum of first 10 natural number.
 # sum = 1
 # s = 0
 # for i in range(1, 11):
-#     sum = s + i 
+#     sum = s * i 
 #     s = sum   
 
 #     # [or]
@@ -50,11 +50,11 @@ Q4. make variables for start and end points for looping and
 printing the values.
 """
 
-a = 2
-b = 15
-skip = 2
-for i in range(a, b, skip):
-    print(f'value is: {i}')
+# a = 2
+# b = 15
+# skip = 2
+# for i in range(a, b, skip):
+#     print(f'value is: {i}')
 
 
 

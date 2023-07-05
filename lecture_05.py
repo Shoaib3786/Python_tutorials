@@ -15,26 +15,26 @@ Q1. Write a python program for a situation say:
 """
 
 
-# num = float(input("enter value:"))
+num = float(input("enter value:"))
 
-# if num > 0:
+if num > 0:
 
-# 	print('positive')
+	print('positive')
     
-# 	if num % 2 == 0:
-# 		print('Divisible by 2')
+	if num % 2 == 0:
+		print('Divisible by 2')
 
-# 	elif num % 3 == 0:
-# 		print('Divisible by 3')
+	elif num % 3 == 0:
+		print('Divisible by 3')
 
-# 	elif num % 5 == 0:
-# 		print('Divisible by 5')
+	elif num % 5 == 0:
+		print('Divisible by 5')
 
-# 	elif num % 7 == 0:
-# 		print('Divisible by 7')
+	elif num % 7 == 0:
+		print('Divisible by 7')
 
-# 	elif num % 4 == 0:
-# 		print('Divisible by 4')
+	elif num % 4 == 0:
+		print('Divisible by 4')
 
 # 	# print(122+122)
 # elif num < 0:
