@@ -73,3 +73,12 @@ it moves to the next iteration.
 
 #     print(f'now i is {i}')
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+>>>>>>> cdce7a1 (18 commit)
