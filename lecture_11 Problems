@@ -1,5 +1,6 @@
-Q.1 Consider the situation when you need to write a program which prints the number from 1 to 10 and but not 6.
+Q.1 Consider the situation where you need to write a program that prints the number from 1 to 10 but not 6.
 
 
-Q2. Consider a situation where you want to iterate over a string and want to print all the characters until a letter ‘e’ or ‘s’ is encountered.
+Q2. Consider a situation where you want to iterate over a string and want to print all the characters until a 
+letter ‘e’ or ‘s’ is encountered.
 
