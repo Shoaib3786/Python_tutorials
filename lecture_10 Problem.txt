@@ -7,4 +7,4 @@ find the factorial of those 4 user input numbers.
 
 Hint:
 1. Use for loop
-2. Use list concept
+2. Use list concepts

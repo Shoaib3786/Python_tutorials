@@ -67,6 +67,12 @@
 # 5. slicing [:] - print ample of specified contained at once.
 
 
+# a = [12,23,4,56,7]
+
+# print( a[0 : 3] )
+
+
+
 # 6. len()    - find length of the list
 # a = [20, 'max',  22, 34] 
 
@@ -128,46 +134,31 @@ Q.2 Write python program that accepts age of 4 users and find the
 youngest user out of it.
 """
 
-mlist = []
-
-for _ in range(4):
-    age = int(float(input('Enter age; ')))
-
-    mlist.append(age)
-
-    # print(mlist)
-
-print(mlist)
-
-# sorting in ascending order 
-mlist.sort()
-
-print(mlist)
-
-
-print(f"youngest person's age is: {mlist[0]}")
-    
-
-
-
-
-
-
 # mlist = []
-# for _ in range(5):
-    
-#     age = int(float(input('enter value: ')))
-    
+
+# for _ in range(4):
+#     age = int(float(input('Enter age; ')))
+
 #     mlist.append(age)
 
-# print('user added list is: ',mlist)
+#     # print(mlist)
 
+# print(mlist)
+
+# # sorting in ascending order 
 # mlist.sort()
-# print(f'Final list {mlist} \n')
+
+# print(mlist)
 
 
-# youngest = mlist[0]
-# print(f'Youngest person age is: {youngest}', )
+# print(f"youngest person's age is: {mlist[0]}")
+    
+
+
+
+
+
+
 
 
 
