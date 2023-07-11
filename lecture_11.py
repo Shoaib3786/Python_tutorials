@@ -58,7 +58,7 @@ time being until real condition fills up
 #         print('hello2')
 
 
-""" 3. continue:
+""" 3. Continue:
 it moves to the next iteration.
 """
 
@@ -72,69 +72,4 @@ it moves to the next iteration.
         
 
 #     print(f'now i is {i}')
-
-
-
-
-
-
-# """ 2. Backtracing """
-
-# a = [1,23,43,54,6]
-
-# print('"""""mtd-0""""')
-
-# # [mtd-0]  [reverse as method, it doesn't return any value, it just update the list]
-# print('original', a)
-# a.reverse()
-# print('reverse',a)
-
-
-
-
-# def myfun(a):
-#     print('hello', a)
-# myfun(12)
-# reversed()
-
-
-
-# class myAge:
-
-#     def myfun(a):
-#         print('hello', a)
-
-#     def pop()
-        
-#     def insert()
-
-
-
-# myObject = myAge
-
-# myObject.myfun()
-# a = [12,3]
-# list.reverse()
-
-# # a.reverse()  # method 
-
-# # reversed(a) # function
-
-
-
-
-
-# print('"""""mtd-1""""')
-# [mtd-1] [reversed as function]
-# for i in reversed(a):
-#     print(i)
-
-
-# print('"""""mtd-2""""')
-# [mtd-2]
-# for i in a[::-1]:
-
-#     if i == 23:
-#         break
-#     print(i)
 
