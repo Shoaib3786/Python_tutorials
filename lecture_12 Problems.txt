@@ -1,0 +1,18 @@
+### ASSIGNMENT ###
+
+Q1. Write a program to print the cube of all numbers from 1 to a user input numbers.
+
+
+
+Q2. Use a loop to display odds numbers from the 3 given list.
+if ERROR OCCURS PLZ SPECIFY THE REASONS FOR IT.
+
+list 1: 
+[10, 7, 32, 45, 2, 456, 12, 33, 11, 57, 78, 98, 99, 100, 22, 3, 27, 89, 44, 5, 1, 20, 23, 42, 44, 88, 980, 67, 821]
+
+list 2: 
+[456, 22, 33, 11, 57, 66, 78, '98', 99, 100, 22, 3, 27, '89', 44, 5, 1, 20, 213, '42', 44, 88, '980', 67, 66, '77']
+
+list 3: 
+[10, 7, 32, 45, 2, 456, 12, 'HI', 11, 57, 78, 98, 99, 'MAX', 22, 3, 27, 89, 44, 5, 1, 20, 23, 42, 44, 88, 'TOM', 67, 821]
+
