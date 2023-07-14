@@ -3,7 +3,6 @@
 Q1. Write a program to print the cube of all numbers from 1 to a user input numbers.
 
 
-
 Q2. Use a loop to display odds numbers from the 3 given list.
 if ERROR OCCURS PLZ SPECIFY THE REASONS FOR IT.
 

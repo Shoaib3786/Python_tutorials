@@ -4,7 +4,6 @@
 """
 
 
-
 # """ 1. Backtracing """
 
 
@@ -57,9 +56,6 @@
 
 
 
-
-
-
 # print('"""""mtd-3""""')
 # [mtd-2] [reversing using back slicing]
 # a = [12, 23, 45, 66]
@@ -70,26 +66,4 @@
 #     if i == 23:
 #         break
 #     print(i)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
