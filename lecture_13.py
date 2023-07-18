@@ -138,9 +138,6 @@ list 3:
 
 
 
-
-
-
 """
 Q5: Write a program that takes 4 input from the user and 
 find the factorial of those 4 user input numbers.
@@ -175,16 +172,6 @@ Hint:
 #         fact = fact * i
 
 #     print(fact)
-
-
-
-
-
-
-
-
-
-
 
 
 
