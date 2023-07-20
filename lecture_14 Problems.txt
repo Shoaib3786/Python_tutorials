@@ -1,0 +1,30 @@
+ASSIGNMENTS:
+
+
+Q1. Accept 10 numbers from the user and dispaly their average.
+
+
+
+Q2. Write a program that prints sum of all even numbers and sum of all odd numbers that lies from (12 to 37) including both.
+
+
+
+Q3. Write a program to print the table of user input number.
+Example: user input 6 then print the table of 6 as 6*1 = 6 and go on till 6 * 10 = 60.
+
+
+
+Q4. Find the error in the provided code:
+
+a = int("Enter a number)
+for i in Range(2,6):
+if a = i:
+    print("A)
+
+else:
+print("B")
+
+
+
+
+
