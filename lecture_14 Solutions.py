@@ -14,6 +14,7 @@ print('average : ', avg)
     
 
 
+
 """
 Q2. Write a program that prints sum of all even numbers and 
 sum of all odd numbers that lies from (12 to 37) including both.
