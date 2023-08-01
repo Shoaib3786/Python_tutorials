@@ -10,6 +10,8 @@ the for loop
 * * * 
 * * * * 
 * * * * * 
+
+
 * * * * 
 * * * 
 * * 
@@ -28,15 +30,15 @@ the for loop
 * * * * * 
 """
 
-row = 5
+row = 8
 
-for i in range(1 , row+1):
+for i in range(1 , row+1):   # i-> row,   i = 1
 
-    for j in range( 1, i+1):
+    for _ in range( 1, i+1):  # j -> column  j = 1
 
         print('*', end = ' ')
 
-    print('')
+    print('\n')
 
 
 
@@ -45,11 +47,12 @@ for i in range(1 , row+1):
 * * * 
 * * 
 *
+
 """
 
-for i in range( row-1, 0, -1):
+for i in range( row-1, 0, -1): # (4, 0) # i = 4, 3 ,2, 1
 
-    for j in range( 1, i+1):
+    for j in range( 1, i+1):   # j (1, 2) - j = 1
 
         print('*', end = ' ')
 

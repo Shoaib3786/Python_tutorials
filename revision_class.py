@@ -511,8 +511,9 @@ DISCUSSIONS:
 # a.remove( 'mas' )
 # a.pop(4)
 
-# b = a[ 3 ]
 
+# b =  a[1 : 5]
+# print(b)
 
 # print( len(a) )
 
