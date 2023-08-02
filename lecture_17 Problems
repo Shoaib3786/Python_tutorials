@@ -1,0 +1,29 @@
+Q1. Print the pattern:
+ 
+1
+
+1 2 
+
+1 2 3 
+
+1 2 3 4 
+
+1 2 3 4 5
+
+
+
+Q2. Make a equilateral triangle using (Asterisk sybmol('*'))
+
+      *   
+     
+     * *   
+
+    * * *   
+
+   * * * *   
+
+  * * * * *   
+
+ * * * * * *   
+
+* * * * * * *

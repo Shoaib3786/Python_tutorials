@@ -83,21 +83,6 @@ Q2. Write a python program for assigning values based on marks obtained by a stu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 """
 Q.2 write a python program considering the problem statement like:
     
