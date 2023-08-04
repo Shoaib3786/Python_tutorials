@@ -1,0 +1,32 @@
+ASSIGNMENT:
+
+Q1. Perfrom all the string operations on the given string and 
+print all the results:
+a = ' Hello world,,,,....!!Bye max""..}} '
+
+
+    1. Get first 8 characters from the given string.
+
+
+    2. Change the case of the string.
+        a. all to the uppercase.
+        b. all to the lowercase.
+
+
+    3. Remove the white space from the given string
+        a. remove white space from leading and ending.
+        b. remove white space from middle of the string is it exist.
+
+
+    4. Concate 2 strigs:
+        string_1 = ' hello' 
+        string_2 = ' world'
+
+
+    5. Replace the charaters '!!Bye' from the given string with a 
+    whitespace.
+
+
+    6. Get the characters from the given string 'a' from index number 
+    (2 to 5) then convert it into uppercase and merge it with 
+    string_2.
