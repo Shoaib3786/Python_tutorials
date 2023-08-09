@@ -1,0 +1,31 @@
+ASSIGNMENT
+
+
+Q1. Generate nuumbers and insert those numbers in the list using while loop.
+
+HINT:
+    1. It is not always neccessary to use range() function to generate numbers.
+You can even use other way out to generate numbers. Use your brains how to generate numbers and insert them into a list and finally print it out.
+
+    2. Solve this question using WHILE LOOP and FOR LOOP.
+
+
+Q2. Print the elements in the list using WHILE LOOP.
+
+mlist = [ 12, 23, 24, 25, 26, 27, 28, 29, 30, 31 ]
+
+
+Q3. Find the sum of the number in the list using WHILE LOOP.
+
+mlist = [ 12, 28, 29, 30, 31 ]
+
+
+Q4. Make a python program to take 5 alphabet letters from the user and remove those letters from the given string.
+
+myString = " Hello People!! I'm an Artifical Intelligence Designed to detect malware in the system. "
+
+SOLVE THIS QUESTION USING WHILE LOOP...
+
+
+
+
