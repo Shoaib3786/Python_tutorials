@@ -1,0 +1,14 @@
+Assignment:
+
+# Build a python program that mimics the interest calculator of the user.
+
+Make a simple interest calculator for the user.
+
+Assume a scenario that user wants to invest in a specific bank.
+    1. He has currently some amount to invest.
+    2. He has to invest that amount for about some given years.
+    3. Bank has imposed some random interest over it.
+
+Calculate the total amount the user will get after specified year of investment, also do calculate total interest amount he will receive.
+
+LEARN HOW TO MERGE YOUR PYTHON CODE WITH HTML -> So that through website you can interact with your python program.
