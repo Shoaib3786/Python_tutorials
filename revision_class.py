@@ -591,6 +591,8 @@ Q.1 Consider the situation where you need to write a program that prints the num
 """
 
 
+
+
 """
 Q1. Write a program to print the cube of all numbers from 1 
 to a user input numbers.

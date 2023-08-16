@@ -189,26 +189,50 @@ print(a)
 
 
 
-# a = 1
+a = 1
 
 # while 1 <= a < 20:
 
 
-#     if a == 10:
+#     if  a == 10:
 #         break
 
-#     elif ( a == 7):
+#     elif a == 3:
+#         pass
+
+#     elif a == 7:
 
 #         a += 1
 #         continue
-
-#     elif (a == 3):
-#         pass
-
+         
 
 #     print(a)
 
-#     a += 1
+#     a = a + 1
+
+
+
+
+
+
+
+
+
+    # if a == 10:
+    #     break
+
+    # elif ( a == 7):
+
+    #     # a += 1
+    #     continue
+
+    # elif (a == 3):
+    #     pass
+
+
+    # print(a)
+
+    # a += 1
 
     
 

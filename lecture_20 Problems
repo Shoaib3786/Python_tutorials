@@ -1,7 +1,7 @@
 ASSIGNMENT
 
 
-Q1. Generate nuumbers and insert those numbers in the list using while loop.
+Q1. Generate numbers and insert those numbers in the list using while loop.
 
 HINT:
     1. It is not always neccessary to use range() function to generate numbers.
@@ -25,7 +25,3 @@ Q4. Make a python program to take 5 alphabet letters from the user and remove th
 myString = " Hello People!! I'm an Artifical Intelligence Designed to detect malware in the system. "
 
 SOLVE THIS QUESTION USING WHILE LOOP...
-
-
-
-

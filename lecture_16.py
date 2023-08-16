@@ -10,6 +10,15 @@ Q1. Write a python program to print the following pattern:
 """
 
 
+
+
+
+
+
+
+
+
+
 # row = 5
 # for i in range(1, row+1):   # rows  1, 2
     

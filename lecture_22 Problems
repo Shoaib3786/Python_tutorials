@@ -1,0 +1,38 @@
+
+ASSIGNMENT:
+
+
+Q1. Practice for removing items from the dictionary for the following cases:
+
+ Remove item:
+    - Removing the item via .pop()
+    - Removing the item via .popitem(), removes from last.
+    - Remoivng the item via del myDict['key'].  // del can even delete the whole dictionary
+    
+    - Clearing the completedictionary:
+      - del myDict
+      - myDict.clear()
+
+
+
+Q2. Write the program for the following:
+
+1. Make your own dictionary.
+    - using both the methods
+
+2. Update your dictionary's specific item.
+    - use slicing
+    - use .get()
+
+3. Access all the items from the dictinary.
+    - Get all the keys of the dictionary
+        - using simple method.
+        - using FOR LOOP method.
+    
+    - Get all the values of the dictionary
+        - using simple method.
+        - using FOR LOOP method.
+
+    - Get all the key,value pairs of the dictionary
+        -using simple .item()
+
