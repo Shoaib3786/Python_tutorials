@@ -10,6 +10,7 @@
 # 2. Tuple -> ( )
 
 
+
 """
 Dictionary Operations:
 
@@ -67,6 +68,31 @@ Dictionary Operations:
     - build using constructor dict(key=value, key2=value2,)
 """
 
+# mtd-1
+
+# player = {
+#     "health": 35, 
+#     "skill": 75, 
+#     'live':  "dead",
+#       1: "ball"
+#     }
+
+# # print(player)
+
+# # mtd-2.0
+
+# player = dict( {'health':35, "skill": 21}  )
+# print(player)
+
+
+# # mtd-2.1
+# mdict = dict( health = 35, skill = 21, live ='dead' )
+# print(mdict)
+
+
+
+
+
 # # mtd-1
 # Cars = {
 #   "brand": "Tata",
@@ -90,6 +116,10 @@ Dictionary Operations:
 
 
 
+
+
+
+
 """
 2. Accessing items
     - accessing via keys
@@ -99,12 +129,33 @@ Dictionary Operations:
     - getting all keys of the dictionary (.keys())
 """
 
-# time = {
-#     1: "breakFast",
-#     2: "Work",
-#     3: "Play",
-#     "mlist": ['play', 12, 223, 'Football']
-# }
+
+time = {                    # dict
+    1: "breakFast",
+    2: "Work",
+    3: "Play",
+    "mlist": ['play', 12, 223, 'Football']
+}
+
+
+
+
+# getting complete keys of the dict
+# print(time.keys())
+
+# # getting complete values
+# print(time.values())
+
+# #mtd-1
+# # getting values via key by slicing
+# print( time['mlist'] )
+
+# #mtd-2
+# # getting values via key but by using (.get()) 
+# print( time.get( 3 ))
+
+
+
 
 # printing all keys of the ditionary
 # print(time.keys())
@@ -123,7 +174,7 @@ Dictionary Operations:
 
 """
 3. Changing items(or Updating) 
-    - Changing the item via key 
+    - Changing the item via key  
     - changing the item via .update( {key : value,} ) 
 """
 
@@ -134,6 +185,37 @@ Dictionary Operations:
 #     3: "Play",
 #     "mlist": ['play', 12, 223, 'Football']
 # }
+
+# slicing
+# time[2] = " Hey Day!! "
+
+# print(time)
+
+# using .update()
+
+# a = time["mlist"]
+
+# a[1] = "Bye!!!"
+
+# print( a )
+
+# time["mlist"] = a
+
+# print(time)
+
+
+# time.update()
+
+# print(time)
+
+
+# print(time[3]) 
+# print(time.get(3))
+
+
+
+
+
 
 # # printing the changed item at key 3
 # time[3]='Dinner'
@@ -170,12 +252,50 @@ Dictionary Operations:
   - loop for (key,value) pairs together (.item())
 """
 
-# time = {
-#     1: "breakFast",
-#     2: "Work",
-#     3: "Play",
-#     "mlist": ['play', 12, 223, 'Football']
-# }
+time = {
+    1: "breakFast",
+    2: "Work",
+    3: "Play",
+    "mlist": ['play', 12, 223, 'Football']
+}
+
+
+# # used for printing keys of the dictionary!!!
+# print(time.keys())
+
+# for x in time.keys():
+#   print(x)
+
+
+# PRINTING VALUES
+
+# print( time.values())
+
+# mlist = ['breakFast', 'Work', 'Play', ['play', 12, 223, 'Football']]
+# for i in mlist:
+
+#     print(i)
+
+
+
+# printing all keys from the dictionary without .keys()
+# for x in time:
+#   print(x)
+
+
+# for i in time:
+#   print(time[i])
+
+
+# for i,j in range(1,10)
+
+
+# for a,b in time.items():
+
+#     print( a,b )
+
+
+
 
 # # print all keys of the dictionary using forloop
 # for x in time.keys():
@@ -193,6 +313,22 @@ Dictionary Operations:
 # for y in time:
 #   print(time[y])
 
+
+
+
+
 # # printing all the key,values pairs from the dictionary
 # for x,y in time.items():
 #     print((x,y))
+
+
+
+
+# myDict = {"name": "John", "country": "Norway"}
+# mySeparator = "TEST"
+
+a = "hello people!! I'm an AI system designed to work on Embedded systems"
+
+a.strip("")
+
+print()
