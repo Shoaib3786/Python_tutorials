@@ -1,0 +1,29 @@
+
+
+Q: Build a python program that performs following:
+
+
+Step 1: Bulid a Dictionary consisting of:
+
+    keys as 1, 2, 3, 4
+    values as "Hello", "People", [12, 32, "loss", "Maximum"], " Hello world!! this is an exclusive system designed to work over emebedded systems... "
+
+    Take these keys and values from users as userinput. (Using WHILE LOOP)
+
+
+
+Step 2: Now after building the dictionary perfrom following operations:
+
+    (a): on Key 3 -> Print first 3 elements of the list
+                    - Using Slicing
+                    - and also by for loop
+
+    (b): on Key 3 -> Do remove elements named as "loss".
+
+    (c): on Key 3 -> Do remove all the elements from list and then finally update it into the dictionary. (So after this operation dictionary will contain an empty list).
+
+    (d): on key 4 -> Do perform striping of whitespaces if it exists.
+
+    (e): on key 4 -> Do perform splitting and remove element("e") from the string and then convert list of string back to proper string.
+
+

@@ -121,3 +121,14 @@ SOLVE THIS QUESTION USING WHILE LOOP...
 
 # print(ms)
 
+
+
+
+
+mstr = "Hello world!! this is an exclusive system designed to work over emebedded systems..."
+
+a = mstr.split("e")
+print(a)
+
+commit = " "
+print(commit.join(a))

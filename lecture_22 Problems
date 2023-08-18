@@ -22,7 +22,7 @@ Q2. Write the program for the following:
 
 2. Update your dictionary's specific item.
     - use slicing
-    - use .get()
+    - use .update()
 
 3. Access all the items from the dictinary.
     - Get all the keys of the dictionary
