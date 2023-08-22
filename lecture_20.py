@@ -35,29 +35,7 @@ OBJECTIVE:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 2. While loop
-
 
 """ Syntax """
 
@@ -70,17 +48,9 @@ OBJECTIVE:
 
 
 
-
-
-
 # while True:
 
     # code that needs to be done!!
-
-
-
-
-
 
 
 
@@ -100,15 +70,6 @@ OBJECTIVE:
 
 
     
-
-
-
-
-
-
-
-
-
 
 
 # statement = " Sorry maam I won't repeat that again... "
@@ -184,11 +145,6 @@ a = " Welcome \t to my blog"
 print(a)
 
 
-
-
-
-
-
 a = 1
 
 # while 1 <= a < 20:
@@ -213,11 +169,6 @@ a = 1
 
 
 
-
-
-
-
-
     # if a == 10:
     #     break
 
@@ -235,5 +186,3 @@ a = 1
     # a += 1
 
     
-
-

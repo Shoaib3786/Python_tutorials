@@ -93,22 +93,6 @@ Q1. typecaste hardcoded(Progammer feeded) value into:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ###############
 ### IF LOOP ###
 ###############
@@ -394,7 +378,6 @@ DISCUSSION:
 
 
 
-
 """
 Q11. Print first 10 natural number.
 """
@@ -402,7 +385,6 @@ Q11. Print first 10 natural number.
 # for i in range(1, 11):
 
 #     print(i)
-
 
 
 
@@ -583,12 +565,20 @@ CONTINUE - SKIPS THE ITERATIONS
 
 
 
-
-
-
 """
-Q.1 Consider the situation where you need to write a program that prints the number from 1 to 10 but not 6.
+Q.1 Consider the situation where you need to write a program that 
+prints the number from 1 to 10 but not 6.
 """
+
+
+# for i in range(1, 11):
+
+
+#     if i == 6:
+#         continue
+
+#     print(i)
+
 
 
 
@@ -598,3 +588,228 @@ Q1. Write a program to print the cube of all numbers from 1
 to a user input numbers.
 """
 
+# HOMEWORK
+
+
+
+
+
+
+
+
+
+
+
+""" OBJECTIVE:
+
+1. String operations
+2. What is whitespace
+"""
+
+
+
+
+mlist = [1,23,44,23]
+mstr = "hello world"  #-> ['h', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd', '%']
+
+
+"""
+1. concatinate operation ( + ) -> merge 
+"""
+
+
+# # a = '2' + '3'
+# # print(a)
+
+
+# a = input('Enter string 1: ')
+
+# b = input('Enter string 2: ')
+
+# # concatinate:
+# c = a + b
+
+# print(c)
+
+
+
+
+
+
+# a = int(input('Enter value'))
+# b = int(input('Enter value'))
+# c = a+b 
+
+# a = 's'
+# b = 'd'
+
+# c = "c"
+# print( c )
+
+
+# c = " c"
+# print( c )
+
+
+# c = "   c"
+# print( c )
+
+
+
+"""
+2. multiply the string ( * )
+"""
+
+# a = 2  
+# b = 5
+
+# c = str(a) * b
+
+# print(c)
+
+
+
+
+# a = "*"
+
+# print( a * 10)
+
+
+
+
+
+
+
+
+
+
+"""
+3. string slicing
+"""
+
+# # list
+# m = [1, 2, 34, 32, 22]
+
+# b = m[ 1: 3 ]
+# print(b)
+
+# # string
+# a =  'hello world!! bye word!!'
+
+# b = a[ 3 : 7 ]
+# print(b)
+
+
+
+
+
+
+
+
+
+
+
+"""
+4. case changing ( upper(), lower() )
+"""
+
+# a = ' HELLO WORLD !!'
+
+# b = ' bye.....'
+
+# print(b[3].upper())
+
+
+# # print( a[1: 5] + b )
+
+
+
+
+
+
+"""
+5. white space removal  ( stip() )  removes element from 
+    leading and ending.
+"""
+
+
+# a = "   .,,,,,rrttgg.....banana....rrr,,,||,y,,,e,  "
+
+
+# # print(a)
+
+
+# print(a.strip(",e .|rr"))
+
+
+
+# print(a, '\n')
+
+# print( a.strip('|,.r') )
+
+
+
+# b = a.strip(",r.")
+# print(b)
+
+
+"""
+6. splitting the string ( split() )  -> split the string n form list
+"""
+
+# a = ' Helloworld!!!! my bye '
+
+# print( a.split() )
+
+
+
+
+"""
+7. looping the string
+"""
+
+# a = 'hello'
+
+# for i in a:
+
+#     print(i , end=" " )
+
+
+
+
+"""
+8. replacing the element in the string. (replace())
+"""
+
+# a  = ' Hello!!!!!  world  '
+
+# print(a)
+
+
+# replace( "old_value", "new_value")
+# print(a.replace('  ', "*"))
+
+
+
+
+
+# print(a.replace('!!!!!', ' '))
+
+"""
+7. join function:
+"""
+
+# a = 'hello people,'
+
+# b = ' walla!!!'
+
+# print(a+b)
+
+
+# connector = ' '
+# b ='hello people, walla!!!'
+# print(b.split())
+# # print(a+b)
+
+# c = connector.join(b)
+# print(c)

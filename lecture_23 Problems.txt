@@ -1,0 +1,20 @@
+ASSIGNMENT:
+
+Q1 Write a Python program to create a tuple with different data types.
+
+
+Q2. Write a Python program to create a tuple of numbers and print one item.
+
+
+Q3. Write a Python program to convert given tuple into a string.
+    "Output must look like a sentence"
+mtuple = ('e', 'x', 'e', 'r', 'c', 'i', 's', 'e', 's')
+
+
+Q4. Write a Python program to get the 4th element from the last element of a tuple.
+mtuple = ('e', 'x', 'e', 'r', 'c', 'i', 's', 'e', 's')
+
+
+Q5. Write a Python program to replace the last value of tuples in a list.
+Sample list: [(10, 20, 40), (40, 50, 60), (70, 80, 90)]
+Expected Output: [(10, 20, 100), (40, 50, 100), (70, 80, 100)]

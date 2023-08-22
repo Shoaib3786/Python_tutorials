@@ -130,12 +130,12 @@ Dictionary Operations:
 """
 
 
-time = {                    # dict
-    1: "breakFast",
-    2: "Work",
-    3: "Play",
-    "mlist": ['play', 12, 223, 'Football']
-}
+# time = {                    # dict
+#     1: "breakFast",
+#     2: "Work",
+#     3: "Play",
+#     "mlist": ['play', 12, 223, 'Football']
+# }
 
 
 
@@ -252,12 +252,12 @@ time = {                    # dict
   - loop for (key,value) pairs together (.item())
 """
 
-time = {
-    1: "breakFast",
-    2: "Work",
-    3: "Play",
-    "mlist": ['play', 12, 223, 'Football']
-}
+# time = {
+#     1: "breakFast",
+#     2: "Work",
+#     3: "Play",
+#     "mlist": ['play', 12, 223, 'Football']
+# }
 
 
 # # used for printing keys of the dictionary!!!
@@ -327,8 +327,8 @@ time = {
 # myDict = {"name": "John", "country": "Norway"}
 # mySeparator = "TEST"
 
-a = "hello people!! I'm an AI system designed to work on Embedded systems"
+# a = "hello people!! I'm an AI system designed to work on Embedded systems"
 
-a.strip("")
+# a.strip("")
 
-print()
+# print()

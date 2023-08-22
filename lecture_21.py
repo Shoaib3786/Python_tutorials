@@ -125,10 +125,10 @@ SOLVE THIS QUESTION USING WHILE LOOP...
 
 
 
-mstr = "Hello world!! this is an exclusive system designed to work over emebedded systems..."
+# mstr = "Hello world!! this is an exclusive system designed to work over emebedded systems..."
 
-a = mstr.split("e")
-print(a)
+# a = mstr.split("e")
+# print(a)
 
-commit = " "
-print(commit.join(a))
+# commit = " "
+# print(commit.join(a))
