@@ -128,9 +128,14 @@ m = [1, 2, 34, 32, 22]
 8. replacing the element in the string. (replace())
 """
 
-a  = ' Hello!!!!!world'
+# a  = ' Hello!!!!!world'
 
-print(a, '\n')
-print(a.replace('!!!!!', ' '))
+# print(a, '\n')
+# print(a.replace('!!!!!', ' '))
 
 
+string = 'greesk jss'
+a = [*string]
+print(a)
+
+print("".join(a))
