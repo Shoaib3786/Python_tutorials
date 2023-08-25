@@ -6,7 +6,6 @@ OBJECTIVES:
 """
 
 
-
 """ OPERATIONS:
 
 1. Making Tuple
@@ -58,27 +57,27 @@ OBJECTIVES:
     - Use list type convertion first, perfrom list operation over it & then finally convert that into tuple.
 """
 
-
+#
 # tup = tuple( [12 , "m", 2, 44, 'hello', 'world'] )
-
+#
 # print(tup)
 # print(type(tup))
-
-
+#
+#
 # # typecasting
 # mlist = list( tup)
 # print(mlist)
 # print(type(mlist))
-
-
+#
+#
 # mlist[3] = 3
-
+#
 # print(mlist)
-
-
+#
+#
 # # converting back tuple
 # put_01 = tuple( mlist )
-
+#
 # print(put_01)
 # print(type(put_01))
 
@@ -144,9 +143,11 @@ OBJECTIVES:
 
 
 """
+
 Write a program to print the tuple of string values into a string of 
 sentence.
 mtuple = ('e', 'x', 'e', 'r', 'c', 'i', 's', 'e', 's')
+
 """
 
 

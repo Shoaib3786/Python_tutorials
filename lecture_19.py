@@ -4,11 +4,6 @@
 """
 
 
-
-
-
-
-
 """
 1. concatinate operation ( + ) -> merge 
 """
@@ -133,9 +128,3 @@ m = [1, 2, 34, 32, 22]
 # print(a, '\n')
 # print(a.replace('!!!!!', ' '))
 
-
-string = 'greesk jss'
-a = [*string]
-print(a)
-
-print("".join(a))
