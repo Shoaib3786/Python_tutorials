@@ -3,7 +3,6 @@
 2. What is whitespace
 """
 
-
 """
 1. concatinate operation ( + ) -> merge 
 """

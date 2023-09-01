@@ -1,6 +1,6 @@
 
 """
-Q2. Write a program to print the following start pattern using 
+Q2. Write a program to print the following star pattern using 
 the for loop
 
 
