@@ -1,7 +1,6 @@
 
 """ DICTIONARY """
 
-
 """
 Q1. Make Dictionary using both the methods and store in dict_01 make dictionary of 10 items/elements
 [take dict_01 key values from user input]
@@ -33,6 +32,7 @@ Q6. Loop:
   - loop for all values in the dictionary dict_01.
   - loop for (key,value) pairs together in the dictionary dict_01.
 """
+
 
 
 

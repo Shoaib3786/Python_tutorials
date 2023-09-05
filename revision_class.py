@@ -1,15 +1,43 @@
 
 """
 DISCUSSION:
-0. Type casting.
-1. Always take care about intendation.
-2. comments can be added using #,""" """". 
-3. commented statement isn't executed by the programing language.
+0. Make variable
+1. Printing statements
+2. data types
+3. Type casting.
+    - user input()
+    
+4. Always take care about intendation.
+5. comments can be added using #,""" """". 
+6. commented statement isn't executed by the programing language.
 """
-# print(12)
 
-# print ( ' hey  , / ' 'bye' '   ' )
- 
+
+
+
+#variable:
+my_var = 12
+
+a = 20
+
+b = "hello"
+
+c = True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -14,7 +14,6 @@ the for loop:
 * * * 
 * * * * 
 * * * * *
-
 * * * * 
 * * * 
 * * 
@@ -26,40 +25,40 @@ the for loop:
 # MTD-1 #
 #########
 
-row = 5
+# row = 5
 
-# upper-half
-for i in range(1, row+1):
+# # upper-half
+# for i in range(1, row+1):
 
-    for j in range(1, i+1):
+#     for j in range(1, i+1):
 
-        print('* ', end=' ')
+#         print('* ', end=' ')
 
-    print('\n')
-
-
-# lower-half
-for i in range(row-1, 0, -1):
-
-    for j in range(1, i+1):
-
-        print('* ',end=' ')
-
-    print('\n')
+#     print('\n')
 
 
+# # lower-half
+# for i in range(row-1, 0, -1):
+
+#     for j in range(1, i+1):
+
+#         print('* ',end=' ')
+
+#     print('\n')
 
 
-###########
-# MTD - 2 #
-###########
 
-row = 5
-for i in range(0, row+1):
 
-    print("* " * i)
+# ###########
+# # MTD - 2 #
+# ###########
 
-for j in range(row-1, 0, -1):
+# row = 5
+# for i in range(0, row+1):
 
-    print('* ' * j)
+#     print("* " * i)
+
+# for j in range(row-1, 0, -1):
+
+#     print('* ' * j)
 
