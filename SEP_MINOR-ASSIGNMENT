@@ -1,0 +1,10 @@
+
+## ASSIGNMENT:
+
+1. Make a program to randomly generate a number.
+2. Also take the user input.
+3. Match the randomly generted number with the user input number.
+4. If the match found then print "MATCH FOUND..."
+5. Else print "MATCH NOT FOUND...".
+6. Use the PythonScript and even the Flask implementation to show the results.
+7. Even work over the UI of the webpage to make the output as attractive as possible.
