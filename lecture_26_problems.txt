@@ -2,7 +2,7 @@
 **ASSIGNMENT**
 
 
-Q1. Write a Python function to find the maximum of three numbers.
+Q1. Write a Python function to find the maximum of three numbers. [Take 3 user input and find the maximum of it...]
 
 
 Q2. Write a Python function to sum all the numbers in a list.
