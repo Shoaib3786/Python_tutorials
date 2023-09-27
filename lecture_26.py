@@ -158,14 +158,14 @@ Sample List : [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
 
-def fun(mlist):
+# def fun(mlist):
     
-    for i in mlist:
+#     for i in mlist:
 
 
-        if i % 2==0:
+#         if i % 2==0:
 
-            print(f'{i} is even ')
+#             print(f'{i} is even ')
 
         # else:
             # print(f'{i} is odd ')
@@ -179,18 +179,18 @@ def fun(mlist):
 Q. Write a Python program to take user age form one function and prints its age from another function.
 """
 
-def askAge():
-    age =  int(input('Enter your age: '))
+# def askAge():
+#     age =  int(input('Enter your age: '))
     
-    return (age, "Max")
+#     return (age, "Max")
 
 
-def printAge():
+# def printAge():
     
-    user_age, mstring = (age, "Max")
+#     user_age, mstring = (age, "Max")
     
-    print("User's age is :", user_age )
-    print("User's name is :", mstring )
+#     print("User's age is :", user_age )
+#     print("User's name is :", mstring )
 
 
-printAge()
+# printAge()
