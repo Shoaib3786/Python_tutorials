@@ -146,9 +146,11 @@ Q6. From the given tuple print 2nd element of the 1st index list of the tuple
     tuple_1 = ([5, 15, 25], [10, 20, 30], (5, 15, 25))
 """
 
-# tuple_1 = ("Orange", [10, 20, 30], (5, 15, 25))
+tuple_1 = ("Orange", [10, 20, 30], (5, 15, 25))
 
-# tuple_1[1][0]
+# 1st index => index =1
+# 2nd element => index = 1 element of list
+tuple_1[1][1]  #20
 
 
 """
