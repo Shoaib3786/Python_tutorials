@@ -11,7 +11,6 @@ Build a python program for an ATM machine [Program must be based on OOPs concept
 
 2. Make another method named it as withdraw() -> That print asnd returns the user asked amount, but before returning the amount check if user asked value is less than or equal to the balance.
                                               -> If the balance is less than the user entered value than print('Insufficient balance').
-
-                                              
+                   
 NOTE: - Minor details like making argument and passing the parameters for each methods as well as making the constructor for making varaibles of that class instance....these kind of minor details has not mentioned in the question. You have to take care about these minor details.
 """
