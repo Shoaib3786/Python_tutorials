@@ -1,8 +1,9 @@
-"""Assignment on OOPs concept:"""
+"""
+1. Perform inheritance based problems
+2. Look at importing the modules 
+"""
 
 """
-[Q1]
-
 Build a python program for an ATM machine [Program must be based on OOPs concept]
 - In this program user deposit the cash and withdraws the cash and If the withdrawal amount is greater than the balance the error throws that says "Insufficient balance"
 
@@ -16,30 +17,65 @@ NOTE: - Minor details like making argument and passing the parameters for each m
 """
 
 
-class My_atm:
+class AxisBank:   # base class or parent class
 
-    def __init__(self):
+    def __init__(self, minBalance):
         self.balance = 0
+        self.min_balance = minBalance
+
 
     def deposit(self):
-       self.balance = float(input('Enter depositing amount: '))
-   
+        self.balance = float(input("Enter your deposit: "))
+        print('Entered deposit is: ', self.balance)
+
+
     def withdraw(self):
-        
-        self.amount = float(input('Enter your withdrawal amount: '))
 
-        
-        if (self.amount <= self.balance):
+        amount = float(input("Enter your withdraw"))
 
-            print("Transaction successful")
+        if self.balance > self.min_balance:
+
+            if amount <= self.balance:
+
+                print('Transaction successful')
+
+            else:
+                print('Insufficient Balance!!')
 
         else:
-            print('Insuffecient balance!!!')
+
+            print(f"Ur balance is {self.balance} can't proceed")
+
+
+# axisObj = AxisBank(minBalance=500)
+# axisObj.deposit()
+# axisObj.withdraw()
+
+
+class iciciBank(AxisBank):
+
+    def __init__(self, minBalance):
+        
+        self.Min_Balance = minBalance
+
+        super().__init__(self.Min_Balance)  # 300
+
+
+    def deposit(self):
+        return super().deposit()
+        
+
+    def withdraw(self):
+
+       return super().withdraw()
+
+# iciciObj = iciciBank(minBalance=300)
+# iciciObj.deposit()
+# iciciObj.withdraw()
 
 
 
-obj_01 = My_atm()
 
-obj_01.deposit()
 
-obj_01.withdraw()
+
+
